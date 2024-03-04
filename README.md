@@ -33,9 +33,8 @@ To run the application locally, you need the following:
 
     cd ../orders
     npm install
-    ```
 
-     cd ../authentication-service
+    cd ../authentication
     npm install
     ```
 
